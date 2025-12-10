@@ -15,7 +15,7 @@ You can customize the board size, track your stats, and switch between different
   + left mouse button - flip a tile (and neighbors)
 
 # Authors
-  + @potexxi
+  + [@potexxi](https://www.github.com/potexxi)
 
 
 # Screenshots
