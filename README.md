@@ -1,5 +1,5 @@
 # lights-out
----
+
 This Lights Out version is a clean and modern remake of the classic “Lights Out” puzzle game, built in C# using WPF.
 Each click flips a tile and its neighbors.
 
@@ -15,10 +15,8 @@ You can customize the board size, track your stats, and switch between different
   + left mouse button - flip a tile (and neighbors)
 
 # Authors
----
   + @potexxi
 
 
 # Screenshots
----
 <img width="645" height="476" alt="Screenshot 2025-12-10 221911" src="https://github.com/user-attachments/assets/9a576693-f7b3-408b-9898-e6713e6be55e" />
